@@ -14,6 +14,7 @@
 // limitations under the License.
 
 #include <event_camera_codecs/decoder_factory.h>
+#include <unistd.h>
 #include <event_camera_codecs/event_processor.h>
 #include <inttypes.h>
 
